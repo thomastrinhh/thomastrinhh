@@ -1,5 +1,6 @@
 Hi, my name is Thomas Trinh. 
 I’m currently studying Software Engineering at Florida Gulf Coast University.
+
 I’m always looking to learn more about SWE!
 
 - 📫 How to reach me: 
